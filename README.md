@@ -1,6 +1,15 @@
 # ECE444-F2020-Lab6
 Lab6
 This is a copy of https://github.com/mjhea0/flaskr-tdd
+
+# Part 1
+
+
+# Part 2
+
+https://github.com/ECE444-2020Fall/project1-webapp-group4-swifters/tree/Lab6
+
+# Part 3
  
 ## Pros:
 
